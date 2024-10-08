@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: project
+Version: 0.0.1
+Summary: package description
+Author-email: Khanh Toan <khanhtoanlenguyen288@gmail.com>
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests>2.26.0
+Requires-Dist: pandas
